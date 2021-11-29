@@ -10,7 +10,7 @@ cd fb-python-api
 
 ## Install required packages
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Environment Secrets
 
